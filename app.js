@@ -43,7 +43,7 @@ function dessertsList () {
            <img
              class="card-image"
              src="${image}"
-             alt=${e.name}
+             alt="${e.name}"
            />
  
            <button class="add-to-cart-btn"  data-index="${idx}">
