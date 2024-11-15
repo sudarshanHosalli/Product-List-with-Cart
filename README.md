@@ -41,8 +41,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://github.com/sudarshanHosalli/Product-List-with-Cart)
+- [Live Site URL](https://statuesque-gecko-372bf4.netlify.app/)
 
 ## Process
 
@@ -90,8 +90,8 @@ Moving forward, I would like to continue improving my skills in:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- GIthub - [Your Name](https://www.linkedin.com/in/yourusername)
+- Frontend Mentor - [@sudarshanHosalli](https://www.frontendmentor.io/profile/sudarshanHosalli)
+- GIthub - [sudarshanHosalli](https://github.com/sudarshanHosalli)
 
 ## Acknowledgments
 
